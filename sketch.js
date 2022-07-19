@@ -55,6 +55,7 @@ objectGroup.add(firstTreeHitbox)
 treeGroup = new Group(tree)
 animals = new Group()
 
+
 gameover = createSprite(width/2,height/2,20,20)
 gameover.addImage("gameover",gameoverImg)
 gameover.visible = false
